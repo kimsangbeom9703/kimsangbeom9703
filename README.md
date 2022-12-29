@@ -8,7 +8,7 @@
 
 Velog  → <https://velog.io/@kimsangbeom9703>
 
-Notion → 
+<!--Notion →  -->
 
 
 
