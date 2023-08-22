@@ -8,6 +8,7 @@
 
 Velog  → <https://velog.io/@kimsangbeom9703>
 
+TIL  → <https://github.com/kimsangbeom9703/TIL>
 <!--Notion →  -->
 
 
